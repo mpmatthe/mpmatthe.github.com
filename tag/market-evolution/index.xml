@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market Evolution | Maximilian Matthe</title>
+    <link>/tag/market-evolution/</link>
+      <atom:link href="/tag/market-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Market Evolution</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url>
+      <title>Market Evolution</title>
+      <link>/tag/market-evolution/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Market Structure Evolution</title>
+      <link>/publications/evomap/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publications/evomap/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;A common element of market structure analysis is the spatial representation of firms’ competitive positions on maps. Such maps typically capture static snapshots in time. Yet, competitive positions tend to flux, and market structures can evolve. Embedded in the evolution of market structures are firms’ trajectories—the series of changes in firms’ positions over time relative to all other firms in a market. Identifying these trajectories contributes additional insight to market structure analysis because trajectories reveal firms’ (re)positioning strategies, identify emerging threats and opportunities, and provide a forward-looking perspective on competition. To unlock these insights, we propose EvoMap, a novel dynamic mapping framework that identifies firms’ trajectories from high-frequency and potentially noisy data. We validate EvoMap in an extensive simulation study and show that it outperforms alternative approaches for mapping market structure evolution. Using EvoMap, we study the trajectories of more than 1,000 publicly listed firms over the course of 20 years based on similarities in their 10-K product descriptions. We find major changes in several firms’ positioning strategies, including Apple, Walmart, and Capital One. Because EvoMap accommodates a wide range of mapping methods, analysts can easily apply it in other empirical settings and to data from various sources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advancing Market Structure Analysis</title>
+      <link>/project/advancing_market_structure_analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/advancing_market_structure_analysis/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;This project is about &amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;aims-of-this-project&#34;&gt;Aims of this Project&lt;/h1&gt;
+&lt;p&gt;Hello hello.&lt;/p&gt;
+&lt;h1 id=&#34;associated-papers&#34;&gt;Associated Papers&lt;/h1&gt;
+&lt;p&gt;Paper one and paper two.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

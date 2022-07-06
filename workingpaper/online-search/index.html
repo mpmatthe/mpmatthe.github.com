@@ -1,0 +1,1242 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Maximilian Matthe" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content=" &lt;font size = 3&gt;&lt;i&gt;Job Market Paper&lt;/i&gt;&lt;/font&gt; &lt;div id = &#39;wp_II_abstract&#39; class = &#39;collapsed&#39;&gt; &lt;p id = &#39;wp_II_abstract_text&#39;&gt; &lt;b&gt;Abstract:&lt;/b&gt; Consumers routinely use search engines like Google to satisfy their information needs. These searches provide brands with ample opportunity to connect with consumers. Yet, brands first need to understand their target consumers’ information needs to create relevant content or target them via ads. Yet, identifying consumers’ information needs is challenging, as consumers’ online searches are typically not observable to brands. This article provides a new approach to identifying consumers’ information needs. Our approach tracks consumers’ search behavior via a custom-developed search simulator and uses textual data analysis to infer consumers’ information needs from the recorded search queries. We apply our approach to identify consumers’ information needs when searching for a new credit card. Our analysis reveals eleven broad information needs, including information on benefits, costs and fees, interest rates, specific brands, or traveling. These insights helped our practice partner target consumers who generated 10,000s of additional monthly clicks at below-average ad prices. &lt;/p&gt; &lt;/div&gt; &lt;a class = &#39;show_more&#39; id = &#39;wp_II_more&#39; onclick = &#39;wp_II_toggle_abstract();&#39;&gt;[Show abstract ...]&lt;/a&gt; &lt;a class = &#39;request_copy&#39; id = &#39;wp_I_request_copy&#39; href = &#39;mailto:matthe@wiwi.uni-frankfurt.de&#39;&gt;[Request copy]&lt;/a&gt;
+&lt;script type=&#39;text/javascript&#39;&gt; function wp_II_toggle_abstract() { var abstract = document.getElementById(&#39;wp_II_abstract&#39;); if( abstract.className == &#39;collapsed&#39; ) { abstract.className = &#39;expanded&#39;; var max_height = document.getElementById(&#39;wp_II_abstract_text&#39;).clientHeight &#43; 25; abstract.style = &#39;height: &#39; &#43; max_height &#43; &#39;px&#39;;
+document.getElementById( &#39;wp_II_more&#39; ).textContent = &#39;[Hide abstract ...]&#39;; } else { abstract.className = &#39;collapsed&#39;; document.getElementById( &#39;wp_II_more&#39; ).textContent = &#39;[Show abstract ...]&#39;; }; } &lt;/script&gt;
+" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/workingpaper/online-search/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1c3058" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.6ed1fa46de932dbd1f4e93088c949682.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="/workingpaper/online-search/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Maximilian Matthe" />
+  <meta property="og:url" content="/workingpaper/online-search/" />
+  <meta property="og:title" content="Identifying Consumers’ Information Needs in Online Search | Maximilian Matthe" />
+  <meta property="og:description" content=" &lt;font size = 3&gt;&lt;i&gt;Job Market Paper&lt;/i&gt;&lt;/font&gt; &lt;div id = &#39;wp_II_abstract&#39; class = &#39;collapsed&#39;&gt; &lt;p id = &#39;wp_II_abstract_text&#39;&gt; &lt;b&gt;Abstract:&lt;/b&gt; Consumers routinely use search engines like Google to satisfy their information needs. These searches provide brands with ample opportunity to connect with consumers. Yet, brands first need to understand their target consumers’ information needs to create relevant content or target them via ads. Yet, identifying consumers’ information needs is challenging, as consumers’ online searches are typically not observable to brands. This article provides a new approach to identifying consumers’ information needs. Our approach tracks consumers’ search behavior via a custom-developed search simulator and uses textual data analysis to infer consumers’ information needs from the recorded search queries. We apply our approach to identify consumers’ information needs when searching for a new credit card. Our analysis reveals eleven broad information needs, including information on benefits, costs and fees, interest rates, specific brands, or traveling. These insights helped our practice partner target consumers who generated 10,000s of additional monthly clicks at below-average ad prices. &lt;/p&gt; &lt;/div&gt; &lt;a class = &#39;show_more&#39; id = &#39;wp_II_more&#39; onclick = &#39;wp_II_toggle_abstract();&#39;&gt;[Show abstract ...]&lt;/a&gt; &lt;a class = &#39;request_copy&#39; id = &#39;wp_I_request_copy&#39; href = &#39;mailto:matthe@wiwi.uni-frankfurt.de&#39;&gt;[Request copy]&lt;/a&gt;
+&lt;script type=&#39;text/javascript&#39;&gt; function wp_II_toggle_abstract() { var abstract = document.getElementById(&#39;wp_II_abstract&#39;); if( abstract.className == &#39;collapsed&#39; ) { abstract.className = &#39;expanded&#39;; var max_height = document.getElementById(&#39;wp_II_abstract_text&#39;).clientHeight &#43; 25; abstract.style = &#39;height: &#39; &#43; max_height &#43; &#39;px&#39;;
+document.getElementById( &#39;wp_II_more&#39; ).textContent = &#39;[Hide abstract ...]&#39;; } else { abstract.className = &#39;collapsed&#39;; document.getElementById( &#39;wp_II_more&#39; ).textContent = &#39;[Show abstract ...]&#39;; }; } &lt;/script&gt;
+" /><meta property="og:image" content="/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-01-24T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Identifying Consumers’ Information Needs in Online Search | Maximilian Matthe</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="fee2f644d29c78c8f6a1f4468fde8011" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2656b96b9273c77f9f1758e7dfbeb3fe.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Maximilian Matthe</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Maximilian Matthe</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#workingpapers"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#software"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/uploads/mpmatthe.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Identifying Consumers’ Information Needs in Online Search</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Maximilian Matthe</span>, <span >
+      Daniel M. Ringel</span>, <span >
+      Bernd Skiera</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 24, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="abstract">Abstract</h3>
+<p>Consumers routinely use online search engines, such as Google, to search for information. In response, many firms provide such information to attract consumers during their online searches. Thereby, a prerequisite for successfully attracting a firm’s target audience is identifying what information these consumers desire. To do so, firms must understand consumers’ information needs, that is, the information consumers seek to obtain with their searches. Yet, identifying information needs is non-trivial, as information needs naturally are (I) unobservable and (II) heterogeneous across consumers. This article aims to provide an approach for identifying consumers’ information needs within their online searches. To do so, we develop a novel market research approach and validate it in an empirical application. Our approach enables researchers and firms to collect primary data at scale in a real-time online search environment, and identify consumer information needs through unstructured data analysis. We implement our approach for online searches around “credit cards” in Germany. Our approach reveals nine broad information needs, including information around prices and fees, specific brands, traveling, or mobile payment options. Moreover, our analysis shows that information needs differ across consumers, for instance, across genders and along the purchase funnel.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/online-search/">Online Search</a>
+  
+  <a class="badge badge-light" href="/tag/natural-language-processing/">Natural Language Processing</a>
+  
+  <a class="badge badge-light" href="/tag/machine-learning/">Machine Learning</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/workingpaper/online-search/&amp;text=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/workingpaper/online-search/&amp;t=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search&amp;body=/workingpaper/online-search/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/workingpaper/online-search/&amp;title=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search%20/workingpaper/online-search/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/workingpaper/online-search/&amp;title=Identifying%20Consumers%e2%80%99%20Information%20Needs%20in%20Online%20Search" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/authors/maximilian-matthe/avatar_huf730b6e7e1a82cbac84d2b53ed210c4b_431601_270x270_fill_q75_lanczos_center.jpg" alt="Maximilian Matthe">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Maximilian Matthe</h5>
+      <h6 class="card-subtitle">Doctoral Candidate in Marketing</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/mpmatthe" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/maximilian-matthe/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <script src="/en/js/wowchemy.min.973212c1d342541281b13d2afb510d62.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

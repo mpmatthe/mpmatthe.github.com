@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>undergraduate | Maximilian Matthe</title>
+    <link>/tag/undergraduate/</link>
+      <atom:link href="/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>undergraduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url>
+      <title>undergraduate</title>
+      <link>/tag/undergraduate/</link>
+    </image>
+    
+    <item>
+      <title>Empirical Customer Data Analysis</title>
+      <link>/teaching/ekpe/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/ekpe/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Winter term 2021/2022&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Co-instructor with Martin Schmidberger&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Evaluation: 5.6/6&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;This course focuses on the analysis of large amounts of (customer) data for data-driven marketing. We introduce analytical methods and show how to apply them for better understanding and forecasting customer behavior, and designing marketing activities more effectively and efficiently. Among others, we cover segementing the customer base, understanding the behavior of (web) users, predicting purchase or cancellation probabilities, identifying the determinats of purchase recommendations, or drivers of (dis)satisfaction.&lt;/p&gt;
+&lt;p&gt;All applications in this course draw upon real-world customer data provided by a leading retail bank.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics Covered&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Preparation&lt;/li&gt;
+&lt;li&gt;Linear / Logistic Regression&lt;/li&gt;
+&lt;li&gt;Decision Trees &amp;amp; Random Forests&lt;/li&gt;
+&lt;li&gt;Forecasting&lt;/li&gt;
+&lt;li&gt;Web Analytics&lt;/li&gt;
+&lt;li&gt;Logfile Analysis&lt;/li&gt;
+&lt;li&gt;Customer Base Segmentation&lt;/li&gt;
+&lt;li&gt;Customer Satisfaction and Loyalty&lt;/li&gt;
+&lt;li&gt;Text Mining&lt;/li&gt;
+&lt;li&gt;Legal and Ethical Considerations&lt;/li&gt;
+&lt;li&gt;Scientific Writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href = &#39;https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;publishid=321896&amp;moduleCall=webInfo&amp;publishConfFile=webInfo&amp;publishSubDir=veranstaltung&amp;noDBAction=y&amp;init=y&#39;&gt;View at Goethe University (in German)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marketing Analytics</title>
+      <link>/teaching/pmar/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/teaching/pmar/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;This course introduces quantitative analysis methods and concepts for improving marketing decisions (&amp;ldquo;Marketing Analytics&amp;rdquo;). The course covers these methods&#39; theoretical background, their application in R/RStudio and practical examples using real-world data.&lt;/p&gt;
+&lt;h3 id=&#34;role&#34;&gt;Role&lt;/h3&gt;
+&lt;p&gt;Teaching assistant for Bernd Skiera and instructor for selected sessions.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics Covered&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to R/RStudio&lt;/li&gt;
+&lt;li&gt;Linear Regression&lt;/li&gt;
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Logistic Regression&lt;/li&gt;
+&lt;li&gt;Online Advertising&lt;/li&gt;
+&lt;li&gt;Conjoint Analysis&lt;/li&gt;
+&lt;li&gt;Segmentation, Targeting, Positioning (including Cluster Analysis and Multidimensional Scaling)&lt;/li&gt;
+&lt;li&gt;CLV&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

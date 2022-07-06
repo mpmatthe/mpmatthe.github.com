@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graduate | Maximilian Matthe</title>
+    <link>/tag/graduate/</link>
+      <atom:link href="/tag/graduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>graduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url>
+      <title>graduate</title>
+      <link>/tag/graduate/</link>
+    </image>
+    
+    <item>
+      <title>Predictive Modeling in Marketing</title>
+      <link>/teaching/pmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/pmm/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Summer term 2022&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Co-instructor with Martin Schmidberger&lt;/b&gt;&lt;br&gt;
+&lt;b&gt;Evaluation: 5.7/6&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;
+&lt;p&gt;Co-instructor for &lt;a href = &#34;https://www.marketing.uni-frankfurt.de/en/instructors/hon-prof-dr-martin-schmidberger.html&#34;&gt;Martin Schmidberger&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This seminar focuses on &amp;ldquo;predictive modeling&amp;rdquo; as a challenge in Marketing. Using a real-life dataset, we will forecast and predict customers&#39; purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.&lt;/p&gt;
+&lt;h3 id=&#34;topics-covered&#34;&gt;Topics Covered&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Management and Data Preparation&lt;/li&gt;
+&lt;li&gt;Logistic Regression&lt;/li&gt;
+&lt;li&gt;Model Validation&lt;/li&gt;
+&lt;li&gt;Decision Trees&lt;/li&gt;
+&lt;li&gt;Ensemble Models&lt;/li&gt;
+&lt;li&gt;Artifical Neural Networks / Deep Learning&lt;/li&gt;
+&lt;li&gt;Model Interpretation and Explainability&lt;/li&gt;
+&lt;li&gt;Hyperparamter Tuning and Feature Engineering&lt;/li&gt;
+&lt;li&gt;Model Integration in Campaign Management&lt;/li&gt;
+&lt;li&gt;Legal and Ethical Considerations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
