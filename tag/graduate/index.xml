@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>graduate | Maximilian Matthe</title><link>/tag/graduate/</link><atom:link href="/tag/graduate/index.xml" rel="self" type="application/rss+xml"/><description>graduate</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url><title>graduate</title><link>/tag/graduate/</link></image><item><title>Predictive Modeling in Marketing</title><link>/teaching/pmm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/pmm/</guid><description>&lt;p>&lt;b>Summer term 2022&lt;/b>&lt;br>
+&lt;b>Co-instructor with Martin Schmidberger&lt;/b>&lt;br>
+&lt;b>Evaluation: 5.7/6&lt;/b>&lt;/p>
+&lt;h3 id="about">About&lt;/h3>
+&lt;p>Co-instructor for &lt;a href = "https://www.marketing.uni-frankfurt.de/en/instructors/hon-prof-dr-martin-schmidberger.html">Martin Schmidberger&lt;/a>.&lt;/p>
+&lt;p>This seminar focuses on &amp;ldquo;predictive modeling&amp;rdquo; as a challenge in Marketing. Using a real-life dataset, we will forecast and predict customers' purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Data Management and Data Preparation&lt;/li>
+&lt;li>Logistic Regression&lt;/li>
+&lt;li>Model Validation&lt;/li>
+&lt;li>Decision Trees&lt;/li>
+&lt;li>Ensemble Models&lt;/li>
+&lt;li>Artifical Neural Networks / Deep Learning&lt;/li>
+&lt;li>Model Interpretation and Explainability&lt;/li>
+&lt;li>Hyperparamter Tuning and Feature Engineering&lt;/li>
+&lt;li>Model Integration in Campaign Management&lt;/li>
+&lt;li>Legal and Ethical Considerations&lt;/li>
+&lt;/ul></description></item></channel></rss>

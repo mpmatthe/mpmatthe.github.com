@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teachings | Maximilian Matthe</title><link>/teaching/</link><atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teachings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url><title>Teachings</title><link>/teaching/</link></image><item><title>Empirical Customer Data Analysis</title><link>/teaching/ekpe/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>/teaching/ekpe/</guid><description>&lt;p>&lt;b>Winter term 2021/2022&lt;/b>&lt;br>
+&lt;b>Co-instructor with Martin Schmidberger&lt;/b>&lt;br>
+&lt;b>Evaluation: 5.6/6&lt;/b>&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This course focuses on the analysis of large amounts of (customer) data for data-driven marketing. We introduce analytical methods and show how to apply them for better understanding and forecasting customer behavior, and designing marketing activities more effectively and efficiently. Among others, we cover segementing the customer base, understanding the behavior of (web) users, predicting purchase or cancellation probabilities, identifying the determinats of purchase recommendations, or drivers of (dis)satisfaction.&lt;/p>
+&lt;p>All applications in this course draw upon real-world customer data provided by a leading retail bank.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Data Preparation&lt;/li>
+&lt;li>Linear / Logistic Regression&lt;/li>
+&lt;li>Decision Trees &amp;amp; Random Forests&lt;/li>
+&lt;li>Forecasting&lt;/li>
+&lt;li>Web Analytics&lt;/li>
+&lt;li>Logfile Analysis&lt;/li>
+&lt;li>Customer Base Segmentation&lt;/li>
+&lt;li>Customer Satisfaction and Loyalty&lt;/li>
+&lt;li>Text Mining&lt;/li>
+&lt;li>Legal and Ethical Considerations&lt;/li>
+&lt;li>Scientific Writing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href = 'https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;publishid=321896&amp;moduleCall=webInfo&amp;publishConfFile=webInfo&amp;publishSubDir=veranstaltung&amp;noDBAction=y&amp;init=y'>View at Goethe University (in German)&lt;/a>&lt;/p></description></item><item><title>Marketing Analytics</title><link>/teaching/pmar/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>/teaching/pmar/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This course introduces quantitative analysis methods and concepts for improving marketing decisions (&amp;ldquo;Marketing Analytics&amp;rdquo;). The course covers these methods' theoretical background, their application in R/RStudio and practical examples using real-world data.&lt;/p>
+&lt;h3 id="role">Role&lt;/h3>
+&lt;p>Teaching assistant for Bernd Skiera and instructor for selected sessions.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Introduction to R/RStudio&lt;/li>
+&lt;li>Linear Regression&lt;/li>
+&lt;li>Pricing&lt;/li>
+&lt;li>Logistic Regression&lt;/li>
+&lt;li>Online Advertising&lt;/li>
+&lt;li>Conjoint Analysis&lt;/li>
+&lt;li>Segmentation, Targeting, Positioning (including Cluster Analysis and Multidimensional Scaling)&lt;/li>
+&lt;li>CLV&lt;/li>
+&lt;/ul></description></item><item><title>Predictive Modeling in Marketing</title><link>/teaching/pmm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/pmm/</guid><description>&lt;p>&lt;b>Summer term 2022&lt;/b>&lt;br>
+&lt;b>Co-instructor with Martin Schmidberger&lt;/b>&lt;br>
+&lt;b>Evaluation: 5.7/6&lt;/b>&lt;/p>
+&lt;h3 id="about">About&lt;/h3>
+&lt;p>Co-instructor for &lt;a href = "https://www.marketing.uni-frankfurt.de/en/instructors/hon-prof-dr-martin-schmidberger.html">Martin Schmidberger&lt;/a>.&lt;/p>
+&lt;p>This seminar focuses on &amp;ldquo;predictive modeling&amp;rdquo; as a challenge in Marketing. Using a real-life dataset, we will forecast and predict customers' purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Data Management and Data Preparation&lt;/li>
+&lt;li>Logistic Regression&lt;/li>
+&lt;li>Model Validation&lt;/li>
+&lt;li>Decision Trees&lt;/li>
+&lt;li>Ensemble Models&lt;/li>
+&lt;li>Artifical Neural Networks / Deep Learning&lt;/li>
+&lt;li>Model Interpretation and Explainability&lt;/li>
+&lt;li>Hyperparamter Tuning and Feature Engineering&lt;/li>
+&lt;li>Model Integration in Campaign Management&lt;/li>
+&lt;li>Legal and Ethical Considerations&lt;/li>
+&lt;/ul></description></item></channel></rss>

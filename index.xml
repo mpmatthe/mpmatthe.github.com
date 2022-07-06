@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maximilian Matthe</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Maximilian Matthe</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu1f2f04da04b535428ef66c1a6d7baa41_8019_512x512_fill_lanczos_center_2.png</url><title>Maximilian Matthe</title><link>/</link></image><item><title>Academic Template</title><link>/home-unused/demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/demo/</guid><description>&lt;h2 id="-welcome-to-the-academic-template">👋 Welcome to the Academic Template&lt;/h2>
+&lt;p>The Wowchemy &lt;strong>Academic Resumé Template&lt;/strong> for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p>
+&lt;p>&lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Check out the latest demo&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">&lt;strong>Wowchemy&lt;/strong>&lt;/a> makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.&lt;/p>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/docs/install/" target="_blank" rel="noopener">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-unlock-rewards-with-sponsorshiphttpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to unlock rewards with sponsorship&lt;/a>&lt;/h3>
+&lt;h2 id="youre-looking-at-a-wowchemy-_widget_">You&amp;rsquo;re looking at a Wowchemy &lt;em>widget&lt;/em>&lt;/h2>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>This homepage section is an example of adding &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">elements&lt;/a> to the &lt;a href="https://sourcethemes.com/academic/docs/widgets/">&lt;em>Blank&lt;/em> widget&lt;/a>.&lt;/p>
+&lt;p>Backgrounds can be applied to any section. Here, the &lt;em>background&lt;/em> option is set give a &lt;em>color gradient&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>To remove this section, delete &lt;code>content/home/demo.md&lt;/code>.&lt;/strong>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="get-inspired">Get inspired&lt;/h2>
+&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Skills</title><link>/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/skills/</guid><description/></item><item><title>Experience</title><link>/home-unused/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/experience/</guid><description/></item><item><title>&lt;h2>Research in Progress&lt;/h2></title><link>/home-unused/work_in_progress/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/work_in_progress/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/posts/</guid><description/></item><item><title>Projects</title><link>/home-unused/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/projects/</guid><description/></item><item><title>Recent &amp; Upcoming Talks</title><link>/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/featured/</guid><description/></item><item><title>Recent Publications</title><link>/home-unused/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/publications/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
+&lt;/div>
+&lt;/div></description></item><item><title>Popular Topics</title><link>/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/tags/</guid><description/></item><item><title>Joint Statistical Meetings 2022</title><link>/presentation/2022_jsm/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/presentation/2022_jsm/</guid><description/></item><item><title>Mapping Market Structure Evolution</title><link>/publications/evomap/</link><pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate><guid>/publications/evomap/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>A common element of market structure analysis is the spatial representation of firms’ competitive positions on maps. Such maps typically capture static snapshots in time. Yet, competitive positions tend to flux, and market structures can evolve. Embedded in the evolution of market structures are firms’ trajectories—the series of changes in firms’ positions over time relative to all other firms in a market. Identifying these trajectories contributes additional insight to market structure analysis because trajectories reveal firms’ (re)positioning strategies, identify emerging threats and opportunities, and provide a forward-looking perspective on competition. To unlock these insights, we propose EvoMap, a novel dynamic mapping framework that identifies firms’ trajectories from high-frequency and potentially noisy data. We validate EvoMap in an extensive simulation study and show that it outperforms alternative approaches for mapping market structure evolution. Using EvoMap, we study the trajectories of more than 1,000 publicly listed firms over the course of 20 years based on similarities in their 10-K product descriptions. We find major changes in several firms’ positioning strategies, including Apple, Walmart, and Capital One. Because EvoMap accommodates a wide range of mapping methods, analysts can easily apply it in other empirical settings and to data from various sources.&lt;/p></description></item><item><title>AMA-Sheth Foundation Doctoral Consortium 2022</title><link>/awards/2022_amasheth/</link><pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate><guid>/awards/2022_amasheth/</guid><description/></item><item><title>EMAC 2022</title><link>/presentation/2022_emac/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>/presentation/2022_emac/</guid><description/></item><item><title>Parties as Brands: Linking Positioning Dynamics to Voter Support</title><link>/work_in_progress/political-mapping/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>/work_in_progress/political-mapping/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3></description></item><item><title>Politics in Flux: Dynamic Party Positioning and Voter Support</title><link>/workingpaper/political-mapping/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>/workingpaper/political-mapping/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3></description></item><item><title>Identifying Consumers’ Information Needs in Online Search</title><link>/workingpaper/online-search/</link><pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate><guid>/workingpaper/online-search/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Consumers routinely use online search engines, such as Google, to search for information. In response, many firms provide such information to attract consumers during their online searches. Thereby, a prerequisite for successfully attracting a firm’s target audience is identifying what information these consumers desire. To do so, firms must understand consumers’ information needs, that is, the information consumers seek to obtain with their searches. Yet, identifying information needs is non-trivial, as information needs naturally are (I) unobservable and (II) heterogeneous across consumers. This article aims to provide an approach for identifying consumers’ information needs within their online searches. To do so, we develop a novel market research approach and validate it in an empirical application. Our approach enables researchers and firms to collect primary data at scale in a real-time online search environment, and identify consumer information needs through unstructured data analysis. We implement our approach for online searches around “credit cards” in Germany. Our approach reveals nine broad information needs, including information around prices and fees, specific brands, traveling, or mobile payment options. Moreover, our analysis shows that information needs differ across consumers, for instance, across genders and along the purchase funnel.&lt;/p></description></item><item><title>Estimating Positioning Dynamics in Parliamentary Speeches</title><link>/_unused_right_now/political-mapping/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><guid>/_unused_right_now/political-mapping/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Privacy Regulation and Competition Dynamics in the Tracking Industry</title><link>/work_in_progress/tracker-mapping/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>/work_in_progress/tracker-mapping/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3></description></item><item><title>Empirical Customer Data Analysis</title><link>/teaching/ekpe/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>/teaching/ekpe/</guid><description>&lt;p>&lt;b>Winter term 2021/2022&lt;/b>&lt;br>
+&lt;b>Co-instructor with Martin Schmidberger&lt;/b>&lt;br>
+&lt;b>Evaluation: 5.6/6&lt;/b>&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This course focuses on the analysis of large amounts of (customer) data for data-driven marketing. We introduce analytical methods and show how to apply them for better understanding and forecasting customer behavior, and designing marketing activities more effectively and efficiently. Among others, we cover segementing the customer base, understanding the behavior of (web) users, predicting purchase or cancellation probabilities, identifying the determinats of purchase recommendations, or drivers of (dis)satisfaction.&lt;/p>
+&lt;p>All applications in this course draw upon real-world customer data provided by a leading retail bank.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Data Preparation&lt;/li>
+&lt;li>Linear / Logistic Regression&lt;/li>
+&lt;li>Decision Trees &amp;amp; Random Forests&lt;/li>
+&lt;li>Forecasting&lt;/li>
+&lt;li>Web Analytics&lt;/li>
+&lt;li>Logfile Analysis&lt;/li>
+&lt;li>Customer Base Segmentation&lt;/li>
+&lt;li>Customer Satisfaction and Loyalty&lt;/li>
+&lt;li>Text Mining&lt;/li>
+&lt;li>Legal and Ethical Considerations&lt;/li>
+&lt;li>Scientific Writing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href = 'https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;publishid=321896&amp;moduleCall=webInfo&amp;publishConfFile=webInfo&amp;publishSubDir=veranstaltung&amp;noDBAction=y&amp;init=y'>View at Goethe University (in German)&lt;/a>&lt;/p></description></item><item><title>evomap</title><link>/software/evomap/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>/software/evomap/</guid><description/></item><item><title>Cologne Research Seminar</title><link>/presentation/2021_cologne/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>/presentation/2021_cologne/</guid><description/></item><item><title>SCECR 2021</title><link>/presentation/2021_scecr/</link><pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate><guid>/presentation/2021_scecr/</guid><description/></item><item><title>INFORMS Marketing Science Conference 2021</title><link>/presentation/2021_isms/</link><pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate><guid>/presentation/2021_isms/</guid><description/></item><item><title>EMAC Annual Conference 2021</title><link>/presentation/2021_emac/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>/presentation/2021_emac/</guid><description/></item><item><title>A Dynamic Unfolding Model for (Re-)Positioning Analysis</title><link>/work_in_progress/dynamic-unfolding/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>/work_in_progress/dynamic-unfolding/</guid><description>&lt;h1 id="abstract">Abstract&lt;/h1></description></item><item><title>AIM Conference 2021</title><link>/presentation/2021_aim/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>/presentation/2021_aim/</guid><description/></item><item><title>Marketing Analytics</title><link>/teaching/pmar/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>/teaching/pmar/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This course introduces quantitative analysis methods and concepts for improving marketing decisions (&amp;ldquo;Marketing Analytics&amp;rdquo;). The course covers these methods' theoretical background, their application in R/RStudio and practical examples using real-world data.&lt;/p>
+&lt;h3 id="role">Role&lt;/h3>
+&lt;p>Teaching assistant for Bernd Skiera and instructor for selected sessions.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Introduction to R/RStudio&lt;/li>
+&lt;li>Linear Regression&lt;/li>
+&lt;li>Pricing&lt;/li>
+&lt;li>Logistic Regression&lt;/li>
+&lt;li>Online Advertising&lt;/li>
+&lt;li>Conjoint Analysis&lt;/li>
+&lt;li>Segmentation, Targeting, Positioning (including Cluster Analysis and Multidimensional Scaling)&lt;/li>
+&lt;li>CLV&lt;/li>
+&lt;/ul></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/guide/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>SCECR 2020</title><link>/presentation/2020_scecr/</link><pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate><guid>/presentation/2020_scecr/</guid><description/></item><item><title>INFORMS Marketing Science Conference 2020</title><link>/presentation/2020_isms/</link><pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate><guid>/presentation/2020_isms/</guid><description/></item><item><title>EMAC Annual Conference 2019</title><link>/presentation/2019_emac/</link><pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate><guid>/presentation/2019_emac/</guid><description/></item><item><title>Slides</title><link>/slides/evomap/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/evomap/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;p>&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>&lt;/p>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Advancing Market Structure Analysis</title><link>/project/advancing_market_structure_analysis/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/advancing_market_structure_analysis/</guid><description>&lt;h1 id="background">Background&lt;/h1>
+&lt;p>This project is about &amp;hellip;&lt;/p>
+&lt;h1 id="aims-of-this-project">Aims of this Project&lt;/h1>
+&lt;p>Hello hello.&lt;/p>
+&lt;h1 id="associated-papers">Associated Papers&lt;/h1>
+&lt;p>Paper one and paper two.&lt;/p></description></item><item><title/><link>/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/admin/config.yml</guid><description/></item><item><title/><link>/project/competing_for_visibility/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/competing_for_visibility/</guid><description/></item><item><title>Predictive Modeling in Marketing</title><link>/teaching/pmm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/pmm/</guid><description>&lt;p>&lt;b>Summer term 2022&lt;/b>&lt;br>
+&lt;b>Co-instructor with Martin Schmidberger&lt;/b>&lt;br>
+&lt;b>Evaluation: 5.7/6&lt;/b>&lt;/p>
+&lt;h3 id="about">About&lt;/h3>
+&lt;p>Co-instructor for &lt;a href = "https://www.marketing.uni-frankfurt.de/en/instructors/hon-prof-dr-martin-schmidberger.html">Martin Schmidberger&lt;/a>.&lt;/p>
+&lt;p>This seminar focuses on &amp;ldquo;predictive modeling&amp;rdquo; as a challenge in Marketing. Using a real-life dataset, we will forecast and predict customers' purchase behavior and derive models that help optimize the efficiency of marketing campaigns. We will present both the process of data mining and the most relevant machine learning algorithms to predict customer (buying) behavior.&lt;/p>
+&lt;h3 id="topics-covered">Topics Covered&lt;/h3>
+&lt;ul>
+&lt;li>Data Management and Data Preparation&lt;/li>
+&lt;li>Logistic Regression&lt;/li>
+&lt;li>Model Validation&lt;/li>
+&lt;li>Decision Trees&lt;/li>
+&lt;li>Ensemble Models&lt;/li>
+&lt;li>Artifical Neural Networks / Deep Learning&lt;/li>
+&lt;li>Model Interpretation and Explainability&lt;/li>
+&lt;li>Hyperparamter Tuning and Feature Engineering&lt;/li>
+&lt;li>Model Integration in Campaign Management&lt;/li>
+&lt;li>Legal and Ethical Considerations&lt;/li>
+&lt;/ul></description></item></channel></rss>
